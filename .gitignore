@@ -1,0 +1,4 @@
+**/db/models/healthcare
+**/*.pyc
+**/__pycache__/
+**/.vscode

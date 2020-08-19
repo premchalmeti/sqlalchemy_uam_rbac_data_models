@@ -1,0 +1,8 @@
+alembic==1.4.2
+mako==1.1.3
+markupsafe==1.1.1
+mysqlclient==2.0.1
+python-dateutil==2.8.1
+python-editor==1.0.4
+six==1.15.0
+sqlalchemy==1.3.18
